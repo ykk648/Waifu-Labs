@@ -2,11 +2,12 @@
 
 trained by [stylegan2ada](https://github.com/NVlabs/stylegan2-ada-pytorch)
 
-
 ### Generate results
 
 ![generate results](./src/waifu_labs.png)
 
 ### waifu edit
 
-done, wait to upload
+|  clothes   | mouth  |pose  |
+|  ----  | ----  |----  |
+| ![clothes](./src/clothes.png)  | ![mouth](./src/mouth.png) | ![pose](./src/pose.png)|
